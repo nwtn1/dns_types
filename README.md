@@ -1,6 +1,6 @@
 # List of all dns types
 #####################
-A
+A <br />
 AAAA
 AFSDB
 APL
