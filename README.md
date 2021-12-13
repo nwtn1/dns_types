@@ -1,8 +1,8 @@
 # List of all dns types
 #####################
-A \n
-AAAA \n
-AFSDB \n
+A
+AAAA
+AFSDB
 APL
 CAA
 CDNSKEY
